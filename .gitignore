@@ -4,6 +4,8 @@
 *~
 
 cifar-cnn/*
+mnist-cnn/*
 MNIST-data/*
 .ipynb_checkpoints/*
 checkpoint
+vcs.xml
